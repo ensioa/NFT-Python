@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="images">
+    <file>C:/Users/admin/Pictures/8.jpg</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>icons/angle-left.png</file>
+    <file>icons/angle-right.png</file>
+    <file>icons/angle-small-down.png</file>
+    <file>icons/cross.png</file>
+    <file>icons/home.png</file>
+    <file>icons/interrogation.png</file>
+    <file>icons/pencil.png</file>
+    <file>icons/search.png</file>
+    <file>icons/settings.png</file>
+  </qresource>
+</RCC>
